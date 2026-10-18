@@ -24,6 +24,7 @@ Explore the actual project evidence:
 - 🎥 **[Demo Video](https://github.com/GouravGC/GraphSleuth-AI/tree/main/evidences/Demo%20Video)**
 - 🖼️ **[Screenshots](https://github.com/GouravGC/GraphSleuth-AI/tree/main/evidences/Screenshots)**
 - 💻 **[Source Code](https://github.com/GouravGC/GraphSleuth-AI)**
+- 💻 **[Youtube Video Demo](https://www.youtube.com/watch?v=oGuR60zX4Dk)**
 
 The evidence folders contain the recorded demonstration and screenshots of the working application and graph visualization.
 
